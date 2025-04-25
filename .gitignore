@@ -1,0 +1,26 @@
+# Ignorar arquivos de configuração específicos de IDEs
+.vscode/
+.idea/
+
+# Ignorar pastas do Python
+__pycache__/
+*.pyc
+
+# Ignorar arquivos temporários de sistema
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Ignorar arquivos do sistema macOS
+.DS_Store
+
+# Ignorar arquivos de logs
+*.log
+
+# Ignorar ambientes virtuais (caso você utilize)
+venv/
+env/
+
+# Ignorar arquivos de saída do Jupyter Notebook (caso esteja usando)
+.ipynb_checkpoints/
